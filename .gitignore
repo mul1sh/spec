@@ -1,0 +1,7 @@
+*.a
+*.o
+.cache/
+.idea/
+__pycache__/
+apps/*vault*
+build/
